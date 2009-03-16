@@ -134,6 +134,19 @@ $ make
 
 on Linux and Build using MS Visual C++ on Windows.
 
+==Brief Description of Files==
+
+
+  * templatetrack.cpp - template tracking
+  * facetrack.cpp - PCA DIFS + DFFS tracking
+  * facetrain.cpp - Train PCA subspace
+  * observetemplate.h - Template matching observation model
+  * observepca.h - PCA DIFS + DFFS observation model
+  * state.h - State transition model (x, y, width, height, angle)
+  * pcaavg.xml - Average of object samples. A PCA parameter.
+  * pcaval.xml - Eigenvalues of object samples. A PCA parameter.
+  * pcavec.xml - Eigenvectors of object samples. A PCA parameter.
+  * opencvx/ - OpenCVX library. Please see [http://code.google.com/p/opencvx/ OpenCVX]. The particle filtering (cvparticle.h) is a part of OpenCVX library. 
 
 =Demo=
 
