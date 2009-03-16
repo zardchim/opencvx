@@ -8,7 +8,7 @@ Particle filter is a method to implement a Bayesian inference filter using Monte
 
 This is a part of the [http://code.google.com/p/opencvx/ OpenCVX] library. 
 
-Download "facetrack*.zip" from http://code.google.com/p/opencvx/downloads/list
+Download *facetrack`*`.zip* from http://code.google.com/p/opencvx/downloads/list
 
 This has two tracking methods, templatetrack.exe and facetrack.exe. Source codes are also available.
 
