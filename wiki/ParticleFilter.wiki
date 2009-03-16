@@ -117,3 +117,28 @@ Usage: facetrain
 FYI:The collection file can be created as
  $ find dir/ -name '*.png' > samples.txt
 }}}
+
+=How To Compile=
+
+I included MS Visual C++ project files and Makefile for Linux.
+
+Install OpenCV and learn how to compile a sample program.
+
+Now, you should have no difficulty to compile.
+
+{{{
+$ make 
+}}}
+
+on Linux and Build using MS Visual C++ on Windows.
+
+
+=Demo=
+
+Before
+
+<wiki:video url="http://www.youtube.com/watch?v=krA8gI6oMUo"/>
+
+Afeter
+
+<wiki:video url="ttp://www.youtube.com/watch?v=xkSphkpA2Ps" />
