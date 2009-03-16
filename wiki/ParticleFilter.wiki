@@ -112,7 +112,7 @@ Usage: facetrack
 {{{
 $ facetrain.exe -featsize 24 24 -M 20 samples.txt
 }}}
-
+Train PCA subpsace. Although the name is facetrain.exe, this is available for any types of images to train a PCA subspace. 
 {{{
 Train PCA subpsace.
 Usage: facetrain
