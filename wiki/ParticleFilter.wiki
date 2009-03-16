@@ -157,3 +157,33 @@ Before
 After
 
 <wiki:video url="http://www.youtube.com/watch?v=xkSphkpA2Ps" />
+
+=References=
+
+  *(1) [http://www.robots.ox.ac.uk/~misard/condensation.html The ConDensation Algorithm Homepage]
+    ** Another origin of particle filter named ConDensation proposed in Computer Vision community. 
+  *(2) [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.4200 A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking]
+{{{
+@ARTICLE{Maskell02atutorial,
+    author = {Simon Maskell and Neil Gordon},
+    title = {A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking},
+    journal = {IEEE Transactions on Signal Processing},
+    year = {2002},
+    volume = {50},
+    pages = {174--188}
+}
+}}}
+  *(3) [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.869 Probabilistic Visual Learning for Object Representation]
+{{{
+@INPROCEEDINGS{Moghaddam95probabilisticvisual,
+    author = {Baback Moghaddam and Alex Pentl},
+    title = {Probabilistic visual learning for object detection},
+    booktitle = {},
+    year = {1995},
+    pages = {786--793}
+}
+}}}
+  *(4) [http://sourceforge.net/projects/opencvlibrary/ OpenCV]
+    **OpenCV library itself also has an implementation for ConDensation, but not easy to tweak.
+  *(5) [http://web.engr.oregonstate.edu/~hess/ Rob Hess - School of EECS @ Oregon State]
+    ** He provides an article to get introduction [http://web.engr.oregonstate.edu/~hess/downloads/track.pdf Course Project Presentation by Rob Hess] and C source codes for particle filtering.
