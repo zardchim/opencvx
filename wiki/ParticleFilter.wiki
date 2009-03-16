@@ -10,11 +10,11 @@ Particle filter is a method to implement a Bayesian inference filter using Monte
 
    * [#Download Download]
    * [#How_To_Use How To Use]
-   ** [#templatetrack.exe templatetrack.exe]
-   ** [#facetrack.exe facetrack.exe]
-   ** [#facetrain.exe facetrain.exe]
+     * [#templatetrack.exe templatetrack.exe]
+     * [#facetrack.exe facetrack.exe]
+     * [#facetrain.exe facetrain.exe]
    * [#How_To_Compile How To Compile]
-   ** [#Brief_Description_of_Files Brief Description of Files]
+     * [#Brief_Description_of_Files Brief Description of Files]
    * [#Demo Demo]
    * [#References References]
 
