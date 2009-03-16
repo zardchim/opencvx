@@ -1,0 +1,12 @@
+#Object Tracking using Particle Filtering
+
+= Introduction =
+
+Particle filter is a method to implement a Bayesian inference filter using Monte Carlo Simulation. It is well known that the Kalman filter provides an analytically optimal Bayesian solution for the linear/Gaussian case. Particle filter is more general, and can model non-linear/non-Gaussian case. Particle filter gained popularity for object tracking  because it was introduced as the Condensation algorithm for object tracking in the computer vision community. 
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
