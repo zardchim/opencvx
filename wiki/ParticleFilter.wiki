@@ -12,7 +12,7 @@ Download "facetrack*.zip" from http://code.google.com/p/opencvx/downloads/list
 
 This has two tracking methods, templatetrack.exe and facetrack.exe. Source codes are also available.
 
-=HowToUse=
+=How To Use=
 
 ==templatetrack.exe==
 
